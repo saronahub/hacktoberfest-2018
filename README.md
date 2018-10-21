@@ -1,4 +1,4 @@
-# hacktoberfest-2018
+# Hacktoberfest 2018 @ SaronaHub
 
 > The main repo of Hacktoberfest 2018 at SaronaHub, containing various resources for people coming to the meetup.
 
@@ -12,9 +12,10 @@
 - [First Timers Only](https://www.firsttimersonly.com)
 - [Your First PR](http://yourfirstpr.github.io/)
 
-Remember that the best projects you can contribute to is the ones you personally use and know.
+_Remember that the best projects you can contribute to are the ones you personally know and use._
 
 ## Up-for-grabs issues
 
+- [ ] [sinonjs/lolex#219](https://github.com/sinonjs/lolex/issues/219)
 - [ ] ...
 
