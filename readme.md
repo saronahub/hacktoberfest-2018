@@ -1,6 +1,4 @@
-# Hacktoberfest 2018 @ SaronaHub
-
-> The main repo of Hacktoberfest 2018 at SaronaHub, containing various resources for people coming to the meetup.
+> _Remember that the best projects to contribute to are the ones you personally know and use._
 
 ## Good places for finding repos to contribute to
 
@@ -11,8 +9,6 @@
 - [issuehub.io](http://issuehub.io)
 - [First Timers Only](https://www.firsttimersonly.com)
 - [Your First PR](http://yourfirstpr.github.io/)
-
-_Remember that the best projects you can contribute to are the ones you personally know and use._
 
 ## Up-for-grabs issues
 
